@@ -1,0 +1,22 @@
+const responseObj = {
+    hola: "Hola.. Como estas?",
+    Hola: "Hola.. Como estas?",
+    Ayuda: "Puedes conozer un poco sobre estas palabras Inteligencia, Artificial, Algoritmos,Red_Neuronal, Aprendizaje_automático, Aprendizaje_reforzado, Robot, Robotica, Programa",
+    ayuda: "Puedes conozer un poco sobre estas palabras Inteligencia, Artificial, Algoritmos,Red_Neuronal, Aprendizaje_automático, Aprendizaje_reforzado, Robot, Robotica, Programa",
+    fecha: new Date().toDateString(),
+    hora: new Date().toLocaleTimeString(),
+    Fecha: new Date().toDateString(),
+    Hora: new Date().toLocaleTimeString(),
+    Inteligencia: "Facultad de la mente que permite aprender, entender, razonar, tomar decisiones y formarse una idea determinada de la realidad.",
+    Artificial: "Que ha sido hecho por el ser humano y no por la naturaleza.",
+    Algoritmos: "Se puede definir como una secuencia de instrucciones que representan un modelo de solución para determinado tipo de problemas",
+    Red_Neuronal: "Permiten extraer información útil y producir inferencias a partir de los datos disponibles gracias a su capacidad de aprendizaje",
+    Aprendizaje_automático: "Se define como la capacidad de las computadoras de aprender y actuar como los humanos.",
+    Aprendizaje_reforzado: "Implica dar a la IA un objetivo que no está definido con una métrica específica, sino que se requiere encontrar una solución o mejorar la eficiencia.",
+    Robot: "Un robot es una entidad virtual o mecánica artificial.",
+    Robotica: "Es una de las ramas de la tecnología. Su cometido es la fabricación y utilización de autómatas para sustituir a las personas,",
+    Programa: "es un conjunto de instrucciones que debe seguir una computadora y que se imparte en un lenguaje que la computadora puede comprender",
+    Nombre:"Chat Boot David",
+    nombre:"Chat Boot David",
+    
+  };
